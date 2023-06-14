@@ -1,0 +1,17 @@
+[{
+  "_id": "646ec1ab6d628d79e07f8c39",
+  "username": "dohok",
+  "email": "dohok@gmail.com",
+  "password": "123456",
+  "role": "Admin",
+  "phoneNumber": "263-382-8894",
+  "address": "56 Grim Alley"
+}, {
+  "_id": "646ec1ab6d628d79e07f8c3a",
+  "username": "greg",
+  "email": "greg@gmail.com",
+  "password": "123456",
+  "role": "Admin",
+  "phoneNumber": "981-350-0309",
+  "address": "4513 Brickson Park Avenue"
+}]

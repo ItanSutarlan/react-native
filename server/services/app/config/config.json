@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "1234",
+    "database": "challange2_p3",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "1234",
+    "database": "challange2_p3_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL"
+  }
+}

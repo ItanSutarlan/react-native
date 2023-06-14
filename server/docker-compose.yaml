@@ -1,0 +1,29 @@
+version: "1.0"
+
+services:
+  user-service:
+    build: ./services/users
+    container_name: user-service
+    ports:
+      - "4001:4001"
+    environment:
+      - MONGODB_URL=${MONGODB_URL}
+  app-service:
+    build: ./services/app
+    container_name: app-service
+    ports:
+      - "4002:4002"
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=${DATABASE_URL}
+  orchestrator:
+    build: ./orchestrator
+    container_name: orchestrator
+    ports:
+      - "80:4000"
+    environment:
+      - USER_BASE_URL=${USER_BASE_URL}
+      - APP_BASE_URL=${APP_BASE_URL}
+      - REDIS_HOST=${REDIS_HOST}
+      - REDIS_PASSWORD=${REDIS_PASSWORD}
+      - REDIS_PORT=${REDIS_PORT}

@@ -1,0 +1,203 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john",
+      "email": "john@gmail.com",
+      "password": "123456",
+      "role": "Admin",
+      "phoneNumber": "0827388223",
+      "address": "New York"
+    },
+    {
+      "id": 2,
+      "username": "doe",
+      "email": "doe@gmail.com",
+      "password": "123456",
+      "role": "Admin",
+      "phoneNumber": "0827388223",
+      "address": "Jakarta"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Selain oleh Jaksa, Keluarga Tersangka di Batu Bara Mengaku Juga Diperas 3 Oknum Polisi",
+      "slug": "selain-oleh-jaksa-keluarga-tersangka-di-batu-bara-mengaku-juga-diperas-3",
+      "content": "KOMPAS.com - Selain diduga korban pemerasan oknum jaksa EKT, keluarga tersangka kasus narkoba, MRR (25), di Kabupaten Batu Bara, Sumatera Utara, juga diperas tiga oknum polisi.  Dugaan pemerasan itu dilakukan oknum polisi berinisial FZ terhadap ibu kandung MRR, berinisial SL (58).  'Si polisi (FZ) minta Rp 10 juta untuk pisah berkas, bingunglah ibu di sana (jaksa) minta duit dan di sini (polisi) minta duit, dicarinya duit dapat cuma Rp 8 juta. Pada 4 Februari 2023, dijumpai polisi ini (FZ) dikasihnya cuma Rp 8 juta. Habis itu dibilang (FZ), uang ini mau diserahkan ke penyidiknya, biar dijadikan berkas terpisah, dia (anak SL) jadi pemakai di situ,' ungkap Tomy Faisal Pane, kuasa hukum SL, saat dikonfirmasi Kompas.com, Minggu (14/5/2023) malam. Menurut Tomy, kasus itu berawal saat MRR terjerat kasus narkoba pada 12 Januari 2023. Saat itu MRR ditangkap atas kepemilikan 1,6 gram sabu.  Lalu, SL menceritakan kasus itu ke Aiptu FZ yang bertugas di Polres Batu Bara dan merupakan tetangganya sendiri.",
+      "imgUrl": "https://asset.kompas.com/crops/VL5oPvXzqQ4z8Tl1VOWtfDCSfbE=/0x0:0x0/750x500/data/photo/2023/05/14/6461038a8447e.jpg",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updateAt": "2023-05-15T12:00:00Z",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "New Study Shows Benefits of Daily Meditation for Mental Health",
+      "slug": "new-study-shows-benefits-of-daily-meditation-for-mental-health",
+      "content": "A new study published in the Journal of Clinical Psychology has shown that daily meditation can have significant benefits for mental health. The study followed a group of participants who meditated for just 10 minutes a day over the course of eight weeks. At the end of the study, the participants reported feeling less anxious and depressed, and more focused and calm. The study also showed that meditation can help reduce symptoms of stress and improve overall well-being. The researchers suggest that daily meditation can be a simple and effective way to support mental health, and recommend that people consider incorporating it into their daily routine.",
+      "imgUrl": "https://images.pexels.com/photos/3415332/pexels-photo-3415332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "createdAt": "2023-05-10T10:30:00Z",
+      "updateAt": "2023-05-15T09:45:00Z",
+      "categoryId": 5,
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "title": "NASA's Perseverance Rover Collects First Sample of Martian Rock",
+      "slug": "nasa-perseverance-rover-collects-first-sample-martian-rock",
+      "content": "NASA's Perseverance rover has successfully collected its first sample of Martian rock, marking a major milestone in the ongoing mission to study the Red Planet. The sample, which is about the size of a piece of chalk, was collected from a rock dubbed 'Rochette' in the Jezero Crater, where the rover landed in February 2021. The sample will be stored in a sealed tube and eventually returned to Earth for analysis by scientists. The Perseverance rover is equipped with a suite of scientific instruments designed to study the geology and habitability of Mars, with a particular focus on searching for signs of ancient microbial life.",
+      "imgUrl": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/pia24883.jpg",
+      "createdAt": "2023-05-13T15:20:00Z",
+      "updateAt": "2023-05-15T11:10:00Z",
+      "categoryId": 6,
+      "authorId": 2
+    },
+    {
+      "id": 4,
+      "title": "US Senate Approves Infrastructure Bill in Bipartisan Vote",
+      "slug": "us-senate-approves-infrastructure-bill-in-bipartisan-vote",
+      "content": "The US Senate has passed a $1 trillion infrastructure bill in a bipartisan vote, with 69 Senators voting in favor and 30 voting against. The bill, which includes funding for roads, bridges, public transportation, broadband internet, and other infrastructure projects, is the largest investment in infrastructure in decades. The bill now goes to the House of Representatives for approval, where it is expected to face some opposition from progressive Democrats who are pushing for even greater investments in infrastructure and social programs. However, the bill is expected to ultimately pass the House and be signed into law by President Biden.",
+      "imgUrl": "https://images.pexels.com/photos/7357767/pexels-photo-7357767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "createdAt": "2023-05-12T08:45:00Z",
+      "updateAt": "2023-05-15T14:30:00Z",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "id": 5,
+      "title": "LeBron James and the Lakers Eliminated from NBA Playoffs in First Round",
+      "slug": "lebron-james-lakers-eliminated-nba-playoffs-first-round",
+      "content": "The Los Angeles Lakers, led by superstar LeBron James, have been eliminated from the NBA playoffs in the first round, after losing to the Phoenix Suns in six games. The Lakers were hampered by injuries throughout the season, with James missing significant time due to an ankle injury, and star forward Anthony Davis missing games due to a groin injury. Despite the setbacks, the Lakers managed to secure the seventh seed in the Western Conference playoffs, but were ultimately unable to overcome the Suns, who had the best record in the conference. The loss marks the first time in James' career that he has been eliminated in the first round of the playoffs.",
+      "imgUrl": "https://images.pexels.com/photos/7531246/pexels-photo-7531246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "createdAt": "2023-05-14T11:30:00Z",
+      "updateAt": "2023-05-15T16:00:00Z",
+      "categoryId": 4,
+      "authorId": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Crime",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Politics",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Bussiness",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Sport",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Education",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Technology",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "Pemerasan",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "name": "Polisi",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "name": "Batu bara",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "postId": 2,
+      "name": "Meditasi",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "postId": 2,
+      "name": "Mental Health",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "postId": 2,
+      "name": "Studi kasus",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "postId": 3,
+      "name": "Astrologi",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 8,
+      "postId": 3,
+      "name": "NASA",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 9,
+      "postId": 3,
+      "name": "Rover",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 10,
+      "postId": 4,
+      "name": "Election",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 11,
+      "postId": 5,
+      "name": "Basketball",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "postId": 5,
+      "name": "Lakers",
+      "createdAt": "2023-05-15T12:00:00Z",
+      "updatedAt": "2023-05-15T12:00:00Z"
+    }
+  ]
+}

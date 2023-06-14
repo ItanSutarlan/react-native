@@ -1,0 +1,50 @@
+[
+  {
+    "postId": 1,
+    "name": "Pemerasan"
+  },
+  {
+    "postId": 1,
+    "name": "Polisi"
+  },
+  {
+    "postId": 1,
+    "name": "Batu bara"
+  },
+  {
+    "postId": 2,
+    "name": "Meditasi"
+  },
+  {
+    "postId": 2,
+    "name": "Mental Health"
+  },
+  {
+    "postId": 2,
+    "name": "Studi kasus"
+  },
+  {
+    "postId": 3,
+    "name": "Astrologi"
+  },
+  {
+    "postId": 3,
+    "name": "NASA"
+  },
+  {
+    "postId": 3,
+    "name": "Rover"
+  },
+  {
+    "postId": 4,
+    "name": "Election"
+  },
+  {
+    "postId": 5,
+    "name": "Basketball"
+  },
+  {
+    "postId": 5,
+    "name": "Lakers"
+  }
+]
