@@ -3,8 +3,8 @@ FROM node:lts-hydrogen
 
 # untuk set ENV dalam aplikasi kita
 ENV PORT=4001
-ENV NODE_ENV=production
-ENV MONGODB_URL=mongodb+srv://sutarlanitan:s3RLxxpxlEJ5D58I@cluster0.b8i3kwx.mongodb.net/
+ENV NODE_ENV=
+ENV MONGODB_URL=
 
 # path di container dimana berisi codingan kita (path bebas sesuai kesepakatan bersama)
 WORKDIR /users
